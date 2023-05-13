@@ -1,6 +1,6 @@
 # FAQ_vue
 
-Live at shorbh.github.io/FAQ_vue
+Live at [shorbh.github.io/FAQ_vue](https://shorbh.github.io/FAQ_vue)
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
